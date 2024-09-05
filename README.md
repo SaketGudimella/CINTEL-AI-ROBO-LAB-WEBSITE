@@ -5,7 +5,7 @@ Cintel AI Robo lab website to see cutting-edge project videos from our students.
 
 > Vercel Deployment: https://cintel-ai-robo-lab-website.vercel.app/
 
-# Upcoming Updates:
+# Additional Updates:
 > [!NOTE]
 > 3D - Loaders : https://github.com/d3adrabbit/origami
 >
@@ -14,3 +14,4 @@ Cintel AI Robo lab website to see cutting-edge project videos from our students.
 > B.G. Cursor Motion: https://tympanus.net/Development/AnimatedHeaderBackgrounds/index.html
 >
 > Sliding Motion: https://tympanus.net/Development/ArticleIntroEffects/index6.html
+
