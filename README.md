@@ -4,7 +4,7 @@ Cintel AI Robo lab website to see cutting-edge project videos from our students.
 > GIT Pages: https://kushagrapuro.github.io/CINTEL-AI-ROBO-LAB-WEBSITE/
 
 > Vercel Deployment: https://cintel-ai-robo-lab-website.vercel.app/
-
+ 
 # Additional Updates:
 > [!NOTE]
 > 3D - Loaders : https://github.com/d3adrabbit/origami
