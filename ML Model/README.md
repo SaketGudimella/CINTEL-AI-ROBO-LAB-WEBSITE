@@ -1,1 +1,1 @@
-CINTEL
+Updates coming soon
